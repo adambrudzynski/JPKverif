@@ -1,4 +1,5 @@
 import Verif from './services/components/verif/Verif';
+import './App.css'
 
 function App() {
   return (
