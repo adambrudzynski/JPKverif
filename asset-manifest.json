@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/JPKverif/static/css/main.4455f064.chunk.css",
+    "main.js": "/JPKverif/static/js/main.c36a3b3b.chunk.js",
+    "main.js.map": "/JPKverif/static/js/main.c36a3b3b.chunk.js.map",
+    "runtime-main.js": "/JPKverif/static/js/runtime-main.f41d7ba7.js",
+    "runtime-main.js.map": "/JPKverif/static/js/runtime-main.f41d7ba7.js.map",
+    "static/js/2.c4aef82b.chunk.js": "/JPKverif/static/js/2.c4aef82b.chunk.js",
+    "static/js/2.c4aef82b.chunk.js.map": "/JPKverif/static/js/2.c4aef82b.chunk.js.map",
+    "static/js/3.31a64c5e.chunk.js": "/JPKverif/static/js/3.31a64c5e.chunk.js",
+    "static/js/3.31a64c5e.chunk.js.map": "/JPKverif/static/js/3.31a64c5e.chunk.js.map",
+    "index.html": "/JPKverif/index.html",
+    "static/css/main.4455f064.chunk.css.map": "/JPKverif/static/css/main.4455f064.chunk.css.map",
+    "static/js/2.c4aef82b.chunk.js.LICENSE.txt": "/JPKverif/static/js/2.c4aef82b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f41d7ba7.js",
+    "static/js/2.c4aef82b.chunk.js",
+    "static/css/main.4455f064.chunk.css",
+    "static/js/main.c36a3b3b.chunk.js"
+  ]
+}
